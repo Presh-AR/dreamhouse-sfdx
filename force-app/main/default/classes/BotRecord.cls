@@ -1,4 +1,5 @@
 public class BotRecord {
+    //Testcomment1
 
     @AuraEnabled 
     public List<BotField> fields { get;set; }
